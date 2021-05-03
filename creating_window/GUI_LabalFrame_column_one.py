@@ -24,7 +24,7 @@ def click_me():
                      number_chosen.get())
 
 # Changing our Label
-ttk.Label(win, text="Enter a name:").grid(column=0, row=0)
+ttk.Label(win, text="Please tner the username:").grid(column=0, row=0)
 
 
 # Adding a Textbox Entry widget
