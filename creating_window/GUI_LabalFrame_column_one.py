@@ -1,8 +1,6 @@
 #Matthew Ivezaj
 
-
-
-# Create instance
+# Imports
 
 import tkinter as tk
 from tkinter import ttk
